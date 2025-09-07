@@ -1,7 +1,7 @@
-Globe Pay Coin (GPC)
-The Borderless Payment Protocol for a Connected World
-Version 1.0
-Date: May 23, 2024
+# Globe Pay Coin (GPC)
+#  The Borderless Payment Protocol for a Connected World
+        Version 1.0
+      Date: May 23, 2024
 
 ________________________________________
 Abstract
