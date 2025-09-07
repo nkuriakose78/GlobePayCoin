@@ -27,15 +27,12 @@ Core Innovations:
 •	Block Time: 2 seconds.
 •	Transaction Finality: Instant.
 ## 3.2 Tokenomics & Distribution
-•	Total Initial Supply: 20,000,000,000 GPC
-•	Total Maximum Supply: 50,000,000,000 GPC (upon successful governance vote)
 Allocation	Percentage	Amount (GPC)	Purpose & Vesting Schedule
 Community & Ecosystem	35%	7,000,000,000	Airdrops, user rewards, developer grants. Unlocked at Mainnet launch.
 Foundation Reserve	25%	5,000,000,000	Funded operations, marketing, partnerships. 4-year linear vesting.
 Liquidity Provision	15%	3,000,000,000	To create initial liquidity pools on DEXs. Locked for 1 year via smart contract.
 Staking Rewards	15%	3,000,000,000	Emissions to reward validators and delegators over a 10-year period.
 Team & Advisors	10%	2,000,000,000	Compensate core team and advisors. 3-year cliff, then 2-year linear vesting.
-This transparent and fair allocation ensures long-term alignment with the community and limits immediate selling pressure.
 ## 3.3 Incentive Mechanisms
 •	Staking Rewards: Earn passive income by staking or delegating GPC.
 •	Loyalty Airdrop: A smart contract will take annual snapshots of wallets. Users who hold and stake their GPC for more than 1 year will receive bonus airdrops from the Community fund, proportional to their holding amount and duration.
