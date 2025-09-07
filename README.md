@@ -7,13 +7,13 @@ ________________________________________
 # Abstract
 Globe Pay Coin (GPC) is a decentralized, open-source blockchain protocol designed to facilitate instant, near-zero cost, cross-border payments for anyone in the world. Leveraging a robust Proof-of-Stake (PoS) consensus mechanism, GPC overcomes the scalability and cost limitations of first-generation cryptocurrencies like Bitcoin. With an initial supply of 20 billion coins and a community-governed model for sustainable expansion, GPC is engineered not for speculation, but for real-world utility in remittances, e-commerce, and microtransactions. Our mission is to make financial inclusion a reality, not just a promise.
 ________________________________________
-1. Introduction: The Problem
+# 1. Introduction: The Problem
 The global financial system is riddled with inefficiencies. Cross-border payments remain slow, expensive, and inaccessible to billions.
 •	Traditional Systems: Services like SWIFT and traditional banks charge exorbitant fees (5-10%) and take 3-5 business days to settle transactions.
 •	Existing Cryptocurrencies: While revolutionary, Bitcoin and Ethereum suffer from high volatility, slow transaction times (10 mins - 1 hour+), and often prohibitive fees, making them unsuitable for daily micro-payments.
 •	Financial Exclusion: Over 1.4 billion adults remain unbanked, unable to access basic financial services due to high costs and lack of infrastructure.
 There is a critical need for a digital currency that is fast, affordable, stable, and globally accessible.
-2. The Solution: Globe Pay Coin (GPC)
+# 2. The Solution: Globe Pay Coin (GPC)
 GPC is a standalone, high-throughput blockchain designed from the ground up to be the backbone of global payments. It is not merely a fork; it is a purpose-built ecosystem.
 Core Innovations:
 •	Proof-of-Stake Consensus: Energy-efficient and secure, allowing thousands of transactions per second with 2-second block confirmation times.
