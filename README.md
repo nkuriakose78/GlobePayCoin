@@ -22,17 +22,17 @@ Core Innovations:
 •	Community Governance: GPC holders govern the network. Key decisions, such as activating the supply expansion to 50B coins, require a 60% supermajority vote from stakers.
 # 3. Technical Architecture
 ## 3.1 Consensus Mechanism: Delegated Proof-of-Stake (DPoS)
-•	Validators: 100 active validators secure the network by staking GPC. They process transactions and produce blocks.
-•	Delegators: Users can delegate their GPC to validators, contributing to network security and earning a share of the staking rewards.
-•	Block Time: 2 seconds.
-•	Transaction Finality: Instant.
+### Validators: 100 active validators secure the network by staking GPC. They process transactions and produce blocks.
+### Delegators: Users can delegate their GPC to validators, contributing to network security and earning a share of the staking rewards.
+### Block Time: 2 seconds.
+### Transaction Finality: Instant.
 ## 3.2 Tokenomics & Distribution
-Allocation	Percentage	Amount (GPC)	Purpose & Vesting Schedule
-Community & Ecosystem	35%	7,000,000,000	Airdrops, user rewards, developer grants. Unlocked at Mainnet launch.
-Foundation Reserve	25%	5,000,000,000	Funded operations, marketing, partnerships. 4-year linear vesting.
-Liquidity Provision	15%	3,000,000,000	To create initial liquidity pools on DEXs. Locked for 1 year via smart contract.
-Staking Rewards	15%	3,000,000,000	Emissions to reward validators and delegators over a 10-year period.
-Team & Advisors	10%	2,000,000,000	Compensate core team and advisors. 3-year cliff, then 2-year linear vesting.
+Allocation	        Percentage	        Amount (GPC)	        Purpose & Vesting Schedule
+Community & Ecosystem	        35%	        7,000,000,000	        Airdrops, user rewards, developer grants. Unlocked at Mainnet launch.
+Foundation Reserve	        25%	        5,000,000,000	        Funded operations, marketing, partnerships. 4-year linear vesting.
+Liquidity Provision	        15%	        3,000,000,000	        To create initial liquidity pools on DEXs. Locked for 1 year via smart contract.
+Staking Rewards	                15%	        3,000,000,000	        Emissions to reward validators and delegators over a 10-year period.
+Team & Advisors	                10%	        2,000,000,000	        Compensate core team and advisors. 3-year cliff, then 2-year linear vesting.
 ## 3.3 Incentive Mechanisms
 •	Staking Rewards: Earn passive income by staking or delegating GPC.
 •	Loyalty Airdrop: A smart contract will take annual snapshots of wallets. Users who hold and stake their GPC for more than 1 year will receive bonus airdrops from the Community fund, proportional to their holding amount and duration.
